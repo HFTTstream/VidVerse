@@ -3,16 +3,6 @@
 ## Introduction
 
 Horizon Film and Television Technology (HFTT) is changing how we experience movies and shows on our phones. Created by experts in film and technology, HFTT aims to bring big-screen excitement to mobile users everywhere. The VERTEX app is the center of this change, offering new ways to enjoy and create content while providing online job opportunities.
-I. The Innovation of HFTT
-A. Short Video Slicing Technology
-HFTT's short video slicing technology lets us take the best parts of longer videos and turn them into short, engaging clips. This allows mobile viewers to enjoy powerful stories even when they have just a few minutes to spare.
-B. Vision and Goals
-HFTT wants to set new standards in mobile entertainment through continuous innovation. Our plans include:
-•	1-Year Goal: Get everyone involved in creating films, making short videos the industry standard.
-•	3-Year Goal: Spread our technology worldwide and make it commercially successful.
-•	5-Year Goal: Encourage more public involvement in film creation and advance the industry with smart, innovative solutions.
-
-
 ![PokePay](https://github.com/user-attachments/assets/3762a033-8549-4725-b21d-412d1712cbc4)
 
 With a focus on security and compliance, PokePay incorporates advanced technology to ensure financial safety, from identity verification to anti-money laundering systems. The platform serves individuals, merchants, and companies alike, providing seamless financial solutions globally.
