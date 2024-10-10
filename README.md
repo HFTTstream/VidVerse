@@ -4,13 +4,13 @@
 
 Horizon Film and Television Technology (HFTT) is changing how we experience movies and shows on our phones. Created by experts in film and technology, HFTT aims to bring big-screen excitement to mobile users everywhere. The VERTEX app is the center of this change, offering new ways to enjoy and create content while providing online job opportunities.
 
-![PokePay](https://github.com/user-attachments/assets/3762a033-8549-4725-b21d-412d1712cbc4)
+![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/HFTTweb2.png))
 
-With a focus on security and compliance, PokePay incorporates advanced technology to ensure financial safety, from identity verification to anti-money laundering systems. The platform serves individuals, merchants, and companies alike, providing seamless financial solutions globally.
+HFTT's short video slicing technology lets us take the best parts of longer videos and turn them into short, engaging clips. This allows mobile viewers to enjoy powerful stories even when they have just a few minutes to spare.
 
-## PokePay Official Website Address
+## VERTEX: The Mobile Entertainment Platform,a groundbreaking app from HFTT.
 
-**PokePay official website**: [https://www.pokepay.com](https://bit.ly/PokePay)
+**HFTT/VERTEX official website**: [[https://www.pokepay.com](https://vertex6.icu/)](https://bit.ly/PokePay)
 
 ## PokePay Promotional Code
 
