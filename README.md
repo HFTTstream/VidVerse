@@ -12,7 +12,7 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 **HFTT/VERTEX official website**: [https://vertex6.icu/]
 
-## PokePay Promotional Code
+## VERTEX Promotional Code
 
 **Current promotional code**: None available at the moment.
 
