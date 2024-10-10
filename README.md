@@ -16,7 +16,7 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 **Current promotional code**: None available at the moment.
 
-[Click to view the latest promotions of PokePay official website](https://bit.ly/PokePay)
+[Click to view the latest promotions of PokePay official website](https://vertex6.icu/)
 
 ## PokePay Promotional Activities
 
