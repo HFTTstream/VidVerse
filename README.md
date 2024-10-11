@@ -6,6 +6,8 @@ Horizon Film and Television Technology (HFTT) is changing how we experience movi
 
 ![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/HFTTweb2.png)
 
+
+
 HFTT's short video slicing technology lets us take the best parts of longer videos and turn them into short, engaging clips. This allows mobile viewers to enjoy powerful stories even when they have just a few minutes to spare.
 
 ## VERTEX: The Mobile Entertainment Platform,a groundbreaking app from HFTT.
