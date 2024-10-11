@@ -16,18 +16,16 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 **Current promotional code**: None available at the moment.
 
-[Click to view the latest promotions of PokePay official website](https://vertex6.icu/)
+[Click to view the latest promotions of VERTEX official website](https://vertex6.icu/)
 
-## PokePay Promotional Activities
+## VERTEX Promotional Activities
 
-| Package Name         | Features                                                        | Server Room Locations        | Price Per Month         | Purchase Link                                      |
-|----------------------|------------------------------------------------------------------|------------------------------|-------------------------|---------------------------------------------------|
-| Physical Card         | Multi-currency support, worldwide shipping, no capital verification | Global (US, HK, etc.)        | Free                    | [Purchase Physical Card](https://bit.ly/PokePay) |
-| Virtual Card          | Instant online access, global payment, multiple currencies       | Global                       | Free                    | [Purchase Virtual Card](https://bit.ly/PokePay)  |
-| VA Account            | Transfers, stock trades, global connectivity                    | US, Hong Kong, Global         | $10 per month           | [Purchase VA Account](https://bit.ly/PokePay)    |
-| Global Acquiring      | Supports multiple card networks and local payments              | Global                       | Custom Pricing           | [Purchase Acquiring Service](https://bit.ly/PokePay) |
-| Online Acquiring      | E-commerce platforms and merchants                              | Global                       | Custom Pricing           | [Purchase Online Acquiring](https://bit.ly/PokePay) |
-| Offline Acquiring     | POS, MPOS, Android mobile POS                                   | Global                       | Custom Pricing           | [Purchase Offline Acquiring](https://bit.ly/PokePay) |
+| User Level      | Language                      | Locations        | Price         | Purchase Link                                     |
+|-----------------|-------------------------------|------------------|---------------|---------------------------------------------------|
+| Level 1         | English | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+| Level 2         | English | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+| Level 3         | English | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+
 
 ## PokePay Reviews
 
