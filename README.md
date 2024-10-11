@@ -22,7 +22,7 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 ## VERTEX Promotional Code
 
-**Current promotional code**: None available at the moment.
+**Current promotional code**: Not available at the moment.
 
 [Click to view the latest promotions of VERTEX official website](https://vertex6.icu/)
 
