@@ -12,6 +12,9 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 ## VERTEX: The Mobile Entertainment Platform,a groundbreaking app from HFTT.
 
+
+
+
 **VERTEX official website**: [https://vertex6.icu/]
 
 ## VERTEX Promotional Code
