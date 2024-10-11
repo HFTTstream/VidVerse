@@ -12,8 +12,8 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 ## VERTEX: The Mobile Entertainment Platform,a groundbreaking app from HFTT.
 
-
-
+![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/channellogo.png)
+![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertex4.png)
 
 **VERTEX official website**: [https://vertex6.icu/]
 
