@@ -4,8 +4,8 @@
 
 Horizon Film and Television Technology (HFTT) is changing how we experience movies and shows on our phones. Created by experts in film and technology, HFTT aims to bring big-screen excitement to mobile users everywhere. The VERTEX app is the center of this change, offering new ways to enjoy and create content while providing online job opportunities.
 
+![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/HFTTweb1.png)
 ![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/HFTTweb2.png)
-
 
 
 HFTT's short video slicing technology lets us take the best parts of longer videos and turn them into short, engaging clips. This allows mobile viewers to enjoy powerful stories even when they have just a few minutes to spare.
