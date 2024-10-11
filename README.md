@@ -17,7 +17,7 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 **VERTEX official website**: [https://vertex6.icu/]
 
-![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertex4.jpg)
+![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertexsetting.jpg)
 
 
 ## VERTEX Promotional Code
