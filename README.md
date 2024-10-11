@@ -20,17 +20,19 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 ## VERTEX Promotional Activities
 
-| User Level      | Language                      | Locations        | Price         | Purchase Link                                     |
-|-----------------|-------------------------------|------------------|---------------|---------------------------------------------------|
-| Level 1         | English | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
-| Level 2         | English | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
-| Level 3         | English | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+| User Level      | Language                      | Locations           | Price            | Purchase Link                          |
+|-----------------|-------------------------------|---------------------|------------------|----------------------------------------|
+| Level 1         | English                       | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+| Level 2         | English                       | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+| Level 3         | English                       | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
 
 
-## PokePay Reviews
+## VERTEX Social Responsibility and Online Jobs
 
-PokePay offers a comprehensive payment platform that is flexible and user-friendly, making it ideal for both personal and corporate use. The platform's security measures, such as compliance with local financial regulations, ensure that users' funds are protected. The real-time limit management feature and rich scenario support make it a great choice for global users seeking efficient payment solutions.
+VERTEX encourages users from diverse backgrounds to contribute to filmmaking. This results in a rich collection of stories that reflect different voices and cultures around the world. Through the VERTEX platform, users can earn over $100 a day creating and sharing content. HFTT aims to create online jobs,empowers people worldwide economically and socially.
 
-For users looking for a seamless payment experience with a wide array of supported platforms and currencies, PokePay stands out as a secure and versatile option.
+## VERTEX Embracing the Future
 
-[More PokePay user reviews and detailed reviews](https://bit.ly/PokePay)
+Download the VERTEX app today! Join us and take part in reshaping what mobile entertainment can be. Let’s create the future of storytelling together!
+
+[More VERTEX user reviews and detailed reviews](https://vertex6.icu/)
