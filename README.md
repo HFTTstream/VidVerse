@@ -18,7 +18,7 @@ HFTT pioneers in short video slicing technology, expertly distilling long-form c
 **VERTEX official website**: [https://vertex6.icu/]
 
 ![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertexsetting.jpg)
-![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertex4.jpg)
+![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertexcpyrht.png)
 
 ## VERTEX Promotional Code
 
