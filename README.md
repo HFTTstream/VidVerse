@@ -28,11 +28,12 @@ HFTT's short video slicing technology lets us take the best parts of longer vide
 
 ## VERTEX Promotional Activities
 
-| User Level      | Language                      | Locations           | Price            | Purchase Link                          |
+| User From       | Language                      | Locations           | Price            | Purchase Link                          |
 |-----------------|-------------------------------|---------------------|------------------|----------------------------------------|
-| Level 1         | English                       | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
-| Level 2         | English                       | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
-| Level 3         | English                       | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+| India         | English/Hindi                      | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
+| Japan         | English/Janpanese                       | Global/Japan        | Free             | [Top up link](https://vertex6.icu/)    |
+| Malaysia         | English/Bahasa Melayu                       | Global/Malaysia        | Free             | [Top up link](https://vertex6.icu/)    |
+| Indonesia         | English/Bahasa Indonesia                       | Global/Indonesia        | Free             | [Top up link](https://vertex6.icu/)    |
 
 
 ## VERTEX Social Responsibility and Online Jobs
