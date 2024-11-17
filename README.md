@@ -30,10 +30,10 @@ HFTT pioneers in short video slicing technology, expertly distilling long-form c
 
 | User From       | Language                      | Locations           | Price            | Purchase Link                          |
 |-----------------|-------------------------------|---------------------|------------------|----------------------------------------|
-| India         | English/Hindi                      | Global/India        | Free             | [Top up link](https://vertex6.icu/)    |
-| Japan         | English/Janpanese                       | Global/Japan        | Free             | [Top up link](https://vertex6.icu/)    |
-| Malaysia         | English/Bahasa Melayu                       | Global/Malaysia        | Free             | [Top up link](https://vertex6.icu/)    |
-| Indonesia         | English/Bahasa Indonesia                       | Global/Indonesia        | Free             | [Top up link](https://vertex6.icu/)    |
+| India         | English/Hindi                      | Global/India        | Free             | [Download App and contact online service](https://vertex6.icu/)    |
+| Japan         | English/Janpanese                       | Global/Japan        | Free             | [Download App and contact online service](https://vertex6.icu/)    |
+| Malaysia         | English/Bahasa Melayu                       | Global/Malaysia        | Free             | [Download App and contact online service](https://vertex6.icu/)    |
+| Indonesia         | English/Bahasa Indonesia                       | Global/Indonesia        | Free             | [Download App and contact online service](https://vertex6.icu/)    |
 
 
 ## VERTEX Social Responsibility and Online Jobs
