@@ -1,4 +1,4 @@
-# Discover HFTT: Leading the Way in Mobile Entertainment
+# Discover HFTT: Leading the Way in Mobile Video Entertainment
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Horizon Film and Television Technology (HFTT) is changing how we experience movi
 
 HFTT pioneers in short video slicing technology, expertly distilling long-form content into potent short clips. This innovation provides viewers with emotionally engaging experiences while respecting the brevity that modern audiences demand. Each second becomes a powerful storytelling tool, perfect for today's mobile-first users.
 
-## VERTEX: The Mobile Entertainment Platform,a groundbreaking app from HFTT.
+## VERTEX: The Mobile Video Entertainment Platform,a groundbreaking app from HFTT.
 
 ![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/channellogo2.jpg)
 
