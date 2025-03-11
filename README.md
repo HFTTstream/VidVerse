@@ -17,8 +17,8 @@ HFTT在短影片切割技術上引領潮流，將長篇內容精煉成引人入�
 
 **VidVerse 官方網站**: [https://vidverse.tw/]
 
-![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vidversemine.jpg)
-![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vidversecpyrht.png)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vertexmine.jpg)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vertexcpyrht.png)
 
 ## VidVerse 推廣碼
 
