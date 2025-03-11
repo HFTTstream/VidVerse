@@ -12,7 +12,7 @@ HFTT在短影片切割技術上引領潮流，將長篇內容精煉成引人入�
 
 ## VidVerse：行動影音娛樂平台，地平線影視科技（HFTT）推出的創新應用程式
 
-![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/channellogo2.jpg)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/nlogoorg.png)
 
 
 **VidVerse 官方網站**: [https://vidverse.tw/]
