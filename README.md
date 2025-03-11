@@ -1,48 +1,47 @@
-# Discover HFTT: Leading the Way in Mobile Video Entertainment
+# 探索地平線影視科技：引領行動影音娛樂的潮流
 
-## Introduction
+## 介紹
 
-Horizon Film and Television Technology (HFTT) is changing how we experience movies and shows on our phones. Created by experts in film and technology, HFTT aims to bring big-screen excitement to mobile users everywhere. The VERTEX app is the center of this change, offering new ways to enjoy and create content while providing online job opportunities.
+地平線影視科技有限責任公司（Horizon Film and Television Technology LLC，簡稱HFTT）正在改變我們在手機上觀影和觀看節目的方式。由電影與科技專家打造，HFTT致力於將大銀幕的刺激帶給全球行動用戶。VidVerse應用程式是這場變革的核心，提供全新方式來享受和創作內容，同時帶來線上的工作機會。
 
-![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/HFTTweb1.png)
-![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/HFTTweb2.png)
-
-
-HFTT pioneers in short video slicing technology, expertly distilling long-form content into potent short clips. This innovation provides viewers with emotionally engaging experiences while respecting the brevity that modern audiences demand. Each second becomes a powerful storytelling tool, perfect for today's mobile-first users.
-
-## VERTEX: The Mobile Video Entertainment Platform,a groundbreaking app from HFTT.
-
-![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/channellogo2.jpg)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/HFTTweb1.png)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/HFTTweb2.png)
 
 
-**VERTEX official website**: [https://vertex6.icu/]
+HFTT在短影片切割技術上引領潮流，將長篇內容精煉成引人入勝的短片。這項創新為觀眾提供情感豐富的體驗，同時滿足現代觀眾對短小精悍的需求。每一秒都成為強大的敘事工具，非常適合當今以行動裝置為主的用戶。
 
-![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertexmine.jpg)
-![HFTTstream](https://github.com/HFTTstream/VERTEX/blob/main/vertexcpyrht.png)
+## VidVerse：行動影音娛樂平台，地平線影視科技（HFTT）推出的創新應用程式
 
-## VERTEX Promotional Code
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/channellogo2.jpg)
 
-**Current promotional code**: Not available at the moment.
 
-[Click to view the latest promotions of VERTEX official website](https://vertex6.icu/)
+**VidVerse 官方網站**: [https://vidverse.tw/]
 
-## VERTEX Promotional Activities
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vidversemine.jpg)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vidversecpyrht.png)
 
-| User From       | Language                      | Locations           | Price            | Purchase Link                          |
+## VidVerse 推廣碼
+
+**目前的推廣碼**: 暫時無法提供。
+
+[點擊查看 VidVerse 官方網站的最新促銷活動](https://vidverse.tw/)
+
+## VidVerse 推廣活動
+
+| 使用者來自        | 語言                      | 地區           | 價格           | 購買連結                         |
 |-----------------|-------------------------------|---------------------|------------------|----------------------------------------|
-| India         | English/Hindi                      | Global/India        | Free             | [Download app and contact online service](https://vertex6.icu/)    |
-| Japan         | English/Janpanese                       | Global/Japan        | Free             | [Download app and contact online service](https://vertex6.icu/)    |
-| Malaysia         | English/Bahasa Melayu                       | Global/Malaysia        | Free             | [Download app and contact online service](https://vertex6.icu/)    |
-| Indonesia         | English/Bahasa Indonesia                       | Global/Indonesia        | Free             | [Download app and contact online service](https://vertex6.icu/)    |
+| 印度         | 英語/印地語                      | 全球/印度        | 免費             | [下載應用程式並聯絡線上客服](https://vidverse.tw/)    |
+| 日本         | 英語/日語                       | 全球/日本        | 免費             | [下載應用程式並聯絡線上客服](https://vidverse.tw/)    |
+| 馬來西亞         | 英語/馬來語                       | 全球/馬來西亞        | 免費             | [下載應用程式並聯絡線上客服](https://vidverse.tw/)    |
+| 印尼         | 英語/印度尼西亞語                       | 全球/印尼        | 免費             | [下載應用程式並聯絡線上客服](https://vidverse.tw/)    |
 
 
-## VERTEX Social Responsibility and Online Jobs
+## VidVerse 社會責任與線上工作
 
-HFTT is deeply committed to creating online job opportunities via the VERTEX platform. By enabling users to earn over $100 a day through content creation and sharing, we empower individuals economically and socially, extending the benefits of the digital economy.
-Through VERTEX, HFTT promotes inclusive participation in the digital storytelling realm, ensuring diverse voices contribute to the rich tapestry of global cinema. This not only enriches content but strengthens community and collective creative expression.
+HFTT 深信透過 VidVerse 平台創造線上工作機會的重要性。我們使使用者能夠透過內容創作與分享每日賺取超過 100 美元，從而在經濟和社會上賦予個人力量，延伸數位經濟的惠益。透過 VidVerse，HFTT 促進在數位故事創作領域的包容性參與，確保多元聲音能夠為全球電影的豐富畫布增添色彩。這不僅豐富了內容，也強化了社群與集體創作表達。
 
-## VERTEX Embracing the Future
+## VidVerse 擁抱未來
 
-Download the VERTEX app today and participate in the new wave of mobile entertainment. Become part of a thriving community that celebrates creativity and innovation, and help us shape the future of cinematic storytelling.
+今天就下載 VidVerse 應用程式，參與這股行動娛樂的新潮流。成為一個慶祝創意與創新的蓬勃社群的一部分，幫助我們塑造未來的電影敘事。
 
-[More VERTEX user reviews and detailed reviews](https://vertex6.icu/)
+[更多 VidVerse 使用者評價及詳細評價](https://vidverse.tw/)
