@@ -4,8 +4,8 @@
 
 地平線影視科技有限責任公司（Horizon Film and Television Technology LLC，簡稱HFTT）正在改變我們在手機上觀影和觀看節目的方式。由電影與科技專家打造，HFTT致力於將大銀幕的刺激帶給全球行動用戶。VidVerse應用程式是這場變革的核心，提供全新方式來享受和創作內容，同時帶來線上的工作機會。
 
-![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/HFTTweb1.png)
-![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/HFTTweb2.png)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vid3.png)
+![HFTTstream](https://github.com/HFTTstream/vidverse/blob/main/vid4.png)
 
 
 HFTT在短影片切割技術上引領潮流，將長篇內容精煉成引人入勝的短片。這項創新為觀眾提供情感豐富的體驗，同時滿足現代觀眾對短小精悍的需求。每一秒都成為強大的敘事工具，非常適合當今以行動裝置為主的用戶。
